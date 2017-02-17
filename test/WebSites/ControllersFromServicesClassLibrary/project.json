@@ -6,7 +6,7 @@
     "Microsoft.AspNetCore.Mvc": "1.2.0-*"
   },
   "frameworks": {
-    "net451": {},
+    "net461": {},
     "netcoreapp1.1": {}
   }
 }
